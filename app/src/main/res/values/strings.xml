@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS4322_Lab_6</string>
+    <string name="start">Start Service</string>
+    <string name="stop">Stop Service</string>
+    <string name="bind">Bind Service</string>
+    <string name="unbind">Unbind Service</string>
+    <string name="ranNum">Get Random Number</string>
+</resources>
